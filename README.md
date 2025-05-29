@@ -1,4 +1,4 @@
-Naudojama Intellj IDEA, MySQL workbench, React + Vive
+Naudojama Intellj IDEA, MySQL workbench, React + Vite
 
 FRONT END PER VS CODE INSTALL:
 
